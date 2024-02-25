@@ -1,2 +1,5 @@
 # Single-cell-RNA-sequencing-analysis-in-Python
 sc-RNA-seq Analysis of publicly available dataset 
+The data is from the publicly available dataset from the research cited below:
+
+Hu, X., Cao, D., Zhou, Z. et al. Single-cell transcriptomic profiling reveals immune cell heterogeneity in acute myeloid leukaemia peripheral blood mononuclear cells after chemotherapy. Cell Oncol. (2023). https://doi.org/10.1007/s13402-023-00853-2
