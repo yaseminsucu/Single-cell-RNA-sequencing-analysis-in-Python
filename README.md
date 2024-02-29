@@ -6,6 +6,6 @@ Hu, X., Cao, D., Zhou, Z. et al. Single-cell transcriptomic profiling reveals im
 
 GEO: GSE235857
 
-Analysis contains Duploid removal, Processing (Normalization, Clustering, labeling Cell Types manually) of the raw counts of the AML and Helthy donor's sample, Differential Expression Analysis, GO enrichment, UMAP production.
+Analysis contains Duploid removal, Processing (Normalization, Clustering, labeling Cell Types manually) of the raw counts of the AML and Healthy donor's sample, Differential Expression Analysis, GO enrichment, UMAP production.
 
 Python libraries used: scanpy, scvi, numpy, pandas, seaborn, matlib, scipy.
